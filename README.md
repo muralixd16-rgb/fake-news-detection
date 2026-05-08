@@ -2,6 +2,16 @@
 
 A full-stack **Fake News Detection** application that classifies news articles as **REAL** or **FAKE** using two different NLP approaches — **TF-IDF + Passive Aggressive Classifier** and **BERT Transformer** — with a **FastAPI** backend and **Streamlit** frontend.
 
+## Table of Contents
+- [🎯 Features](#-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Project Structure](#-project-structure)
+- [⚙️ Setup & Installation](#️-setup--installation)
+- [🚀 Running the Application](#-running-the-application)
+- [🌐 API Endpoints](#-api-endpoints)
+- [⚖️ Model Comparison](#️-model-comparison)
+- [📊 How It Works](#-how-it-works)
+
 ---
 
 ## 🎯 Features
